@@ -83,6 +83,7 @@ This site contains online resources for music theory and aural skills created by
 
 # Technology #
 
+[Uploading and sharing a file via Google Drive.](GDrive.html)  
 [Typesetting a keyboard-style voice-leading exercise.][kbTypesetting]  
 [Using Variations Audio Timeliner.][VAT]  
 [Adding a creative commons license to a blog post.][addCC]  
