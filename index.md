@@ -93,6 +93,7 @@ This site contains online resources for music theory and aural skills created by
 # Performance #
 
 [Melodic sequentials.](melodicSequentials.html)  
+[Chromatic solfège syllables and sequentials.](chromaticSolfege.html)  
 [Sight-singing tips.][sightSinging]  
 
 # Listening #
