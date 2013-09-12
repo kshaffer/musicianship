@@ -70,7 +70,7 @@ do ra do | te ti te | le la le | . . . | re me re | do
 
 ## 3) Incomplete lower neighbors ##
 
-For each scale degree, sing tonic then the lower neighbor to the scale degree followed by its resolution up by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar.
+For each scale degree, sing tonic then the lower neighbor to the scale degree followed by its resolution up by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than *do* at the beginning of each bar.)
 
 **ascending major:**  
 do ti do | do di re | do ri mi | do mi fa | do fi sol | do si la | do li ti | do ti do |
@@ -86,7 +86,7 @@ do ti do | do la te | do sol le | do fi sol | do mi fa | do re me | do di re | d
 
 ## 4) Incomplete upper neighbors ##
 
-For each scale degree, sing tonic then the upper neighbor to the scale degree followed by its resolution down by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar.
+For each scale degree, sing tonic then the upper neighbor to the scale degree followed by its resolution down by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than *do* at the beginning of each bar.)
 
 **ascending major:**  
 do ra do | do me re | do fa mi | do fi fa | do le sol | do te la | do do ti | do ra do |
