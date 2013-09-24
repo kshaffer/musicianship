@@ -10,6 +10,8 @@ The following exercises are called *sequentials*. They are performed by singing 
 
 These sequentials are very helpful exercises for building fluidity with solfège syllables, and for aiding in recognition of standard patterns in a melody. Practice them both ascending and descending.
 
+The sequentials are provided below in major. To sing in natural minor, substitute *me* for *mi*, *le* for *la*, and *te* for *ti*. To sing in harmonic minor, sing natural minor, but use *ti* instead of *te*. (Note that 6 and 7 will sound awkward in harmonic minor, because of the augmented fifth *me*–*ti*. Those can easily be skipped, since that interval is seldom used in the classical literature.)
+
 ## 1) Do re mi ##
 
 **ascending:**  
