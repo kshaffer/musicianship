@@ -20,4 +20,6 @@ Next identify the general harmonic structure of each phrase. Typical phrases in 
 
 If the phrase prolongs tonic, the *entire* phrase should be placed within parentheses or curly brackets.
 
-If the phrase ends with a cadence, identify the *cadential progression*.
+If the phrase ends with a cadence, identify the *cadential progression*. This includes the last chord of the tonic zone, optionally followed by a subdominant chord or zone (most often a single chord), and a required dominant zone (most often a single chord or compound cadence formula). Half-cadence phrases end there. Authentic-cadence phrases continue on to a final tonic zone (usually a singe chord). The **(S) D T** of the cadential progression will always stand on its own as a functional progression, and should never be placed in parentheses or brackets indicating tonic prolongation.
+
+Once the cadential progression is identified, everything before it should be analyzed as tonic prolongation: either parentheses for contrapuntal prolongations or curly brackets for subsidiary progressions. Keep in mind that every non-tonic chord inside those parentheses should have a postscript ("n" for neighbor chord, "p" for passing chord, etc., according to the pattern of the bass voice).

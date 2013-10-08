@@ -44,6 +44,7 @@ This site contains online resources for music theory and aural skills created by
 [Introduction to musical functions.][functions]  
 [Harmonic functions.][harmFunc]  
 [Harmonic syntax.][harmSyntax]  
+[Performing a harmonic analysis.](harmonicAnalysis.html)
 
 [Classical cadence types.][cadenceTypes]  
 [Generating Roman numerals from a figured bass line.][RNfromFB]  
