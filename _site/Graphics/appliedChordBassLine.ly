@@ -23,7 +23,7 @@
 	line-width = 7.0\in
 	left-margin = 0.75\in
 	right-margin = 0.75\in
-	ragged-right = ##t
+	ragged-right = ##f
 	ragged-bottom = ##f
 	ragged-last-bottom = ##t
 	system-system-spacing #'minimum-distance = #25
@@ -71,7 +71,7 @@ lower = <<
 			
 			% enter bass line here
 			g2 gis a ais b c a d g,1 \bar "||" \break
-			\key c \major
+%			\key c \major
 			fis2 g c1 \bar "||"
 			}
 		
@@ -93,7 +93,7 @@ functionalBass = {
 		\lyricmode {
 		
 		% enter functional bass here, follwing the rules of lilypond lyrics
-		"T(1" "[+])" "S2" "[D+2]" "T3" "S(4" "[2])" "D5" "T1"
+		"T{(1" "[+])" "S2" "[D+2]" "3}" "S(4" "[2])" "D5" "T1"
 		"[S+4]" "D5" "T1"
 		}
 	}
@@ -108,24 +108,6 @@ functionalBassLower = {
 		}
 	}
 
-functionalBassLowest = {
-	\set stanza = \markup { \normal-text "" }
-		\lyricmode {
-		
-		% enter functional bass here, follwing the rules of lilypond lyrics
-		"T1" "—" "—" "—" "—"
-		}
-	}
-
-dynamics = {
-	s1\p
-	}
-
-pedal = {
-	s2\sustainOn
-	s\sustainOff
-	}
-
 \score {
 	\new PianoStaff \with { 
 		\override StaffGrouper #'staff-staff-spacing #'minimum-distance = #15
@@ -135,12 +117,9 @@ pedal = {
 		\set PianoStaff.shortInstrumentName = " "
 		\set PianoStaff.midiInstrument = "piano" 
 %		\new Staff = "Staff_pfUpper" << \global \upper >>
-%		\new Dynamics = "Dynamics_pf" \dynamics
 		\new Staff = "Staff_pfLower" << \global \lower >>
 		\new Lyrics \lyricsto "bass" { \functionalBass }
 		\new Lyrics \lyricsto "bass" { \functionalBassLower }
-		\new Lyrics \lyricsto "bass" { \functionalBassLowest }
-%		\new Dynamics = "pedal" \pedal	
 		>>
 	\layout { 
 		\context { \Score \remove "Bar_number_engraver" }
