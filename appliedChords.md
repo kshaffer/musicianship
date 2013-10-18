@@ -16,14 +16,20 @@ For example, take the chord progression F–G–C in C major. We would analyze t
 
 ![][D7ofV]
 
-Such borrowing of chords can happen for *any non-diminished triad in the home key*. That is, any diatonic triad can be preceded by a chromatically altered chord that also functions as a dominant chord in which the following chord is tonic. Thus, the example progression of F\#dim–G can occur in any key to which G major belongs: G major, C major, D major, B minor, A minor, or E minor. 
+Such borrowing of chords can happen for *any non-diminished triad in the home key*. That is, any diatonic triad can be preceded by a chromatically altered chord that also functions as a dominant chord in which the following chord is tonic. Thus, the example progression of F\#dim–G can occur in any key to which the G-major triad belongs: G major, C major, D major, B minor, A minor, or E minor. 
 
 Two things will always be true of the applied chord, which must be reflected in any functional bass analysis, and which can help you spot errors in your analysis:
 
 - The chromatically altered chord will function as a dominant chord in the key of the chord that follows it.
 - The chromatically altered chord will be an alteration of the function that logically precedes the function of the chord that follows it.
 
-On the latter point, if the tonicized chord has tonic function in the current key, the applied chord will be an altered dominant of the current key. If the tonicized chord has dominant function in the current key, the applied chord will be an altered subdominant of the current key. If the tonicized chord has subdominant function in the current key, the applied chord will be an altered tonic of the current key.
+On the latter point, if the tonicized chord has tonic function in the current key (such as *mi–sol–ti* or *la–do–mi*), the applied chord will be an altered dominant of the current key. If the tonicized chord has dominant function in the current key, the applied chord will be an altered subdominant of the current key. If the tonicized chord has subdominant function in the current key, the applied chord will be an altered tonic of the current key.
+
+| tonicizing chord |   | tonicized chord |
+|:----------------:|:-:|:---------------:|
+|     altered T    | → | S 
+|     altered S    | → | D 
+|     altered D    | → | T 
 
 Analytical notation
 -------------------
@@ -50,6 +56,14 @@ Just as the various dominant functioning chords in a key will contain some combi
 **D/lowered-VI (minor)** — *sol*, *te*, *ra*, and *me*.  
 **D/VI (major)** — *si*, *ti*, *re*, *mi*, and *fa*.  
 **D/lowered-VII (minor)** — *la*, *do*, *me*, and *fa*.
+
+
+Functional dissonances in applied chords
+----------------------------------------
+
+Since tonicization temporarily borrows a chord from another key, and since that chord is made up of scale degress from that other key, an applied chord involves *borrowing scale-degree tendency from that other key*. In other words, in an applied chord, judge functional consonances (triggers and associates) and dissonances relative to the key borrowed from, not the home key.
+
+Consider the **D5/V** (altered **S2**) chord in the previous graphic example. In the home key, G major, the chord contains *re* (A), *fi* (C-sharp), *la* (E), and *do* (G). But those pitches are *sol*, *ti*, *re*, and *fa* in the key of V (D major). Thus, the C-sharp should be treated like a leading-tone, and the G (*fa* in D) like a functional dissonance of dominant.
 
 
 [D7ofV]: Graphics/D7ofV.png
