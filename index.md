@@ -12,6 +12,7 @@ This site contains online resources for music theory and aural skills created by
 
 # Fundamentals #
 
+[Protonotation.](protonotation.html)  
 [Meter and time signatures.][meter]  
 [Pitches and octave designations.][pitches]  
 [Intervals and dyads.][intervals]  
