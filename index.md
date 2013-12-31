@@ -66,6 +66,12 @@ This site contains online resources for music theory and aural skills created by
 [Introduction to musical functions.][functions]  
 
 [Classical theme types.][classicalThemes]  
+
+- [The sentence](sentence.html)  
+- [The period](period.html)  
+- [Hybrid themes](hybridThemes.html)  
+- [Compound themes](compoundThemes.html)  
+
 [Classical minuet form.][MinuetForm]  
 [Galant schemata.][Schemata]  
 [Introduction to Sonata Theory.][SonataIntro]  
