@@ -6,7 +6,7 @@ title: Hybrid themes
 {{ page.title }}
 ================
 
-Hybrid themes generally combine the features of sentences and periods.
+Hybrid themes generally combine the features of sentences and periods. See the pages on [the sentence](sentence.html), [the period](period.html), and [Classical theme functions](themeFunctions.html) for more information on the elements included in hybrid themes.
 
 ## Hybrid 1 ##
 
