@@ -6,20 +6,28 @@ title: Classical theme types
 {{ page.title }}
 ================
 
-The following diagrams outline the key internal characteristics and functional role of the various theme types presented in William Caplin’s *Classical Form*. Consult Chapters 3–5 of that text for further explanation and examples.
+The following diagrams outline the key internal characteristics and functional role of the various theme types presented in William Caplin’s *Classical Form*. Follow the links below for further explanation and examples.
+
+See also [Classical theme functions](themeFunctions.html).
 
 Sentence
 --------
+
+For details, click [here](sentence.html).
 
 ![][sentence]
 
 Period
 ------
 
+For details, click [here](period.html).
+
 ![][period]
 
 Hybrid themes
 -------------
+
+For further details, click [here](hybridThemes.html).
 
 ![][hybrid1]
 ![][hybrid2]
@@ -29,10 +37,13 @@ Hybrid themes
 Compound themes
 ---------------
 
+For further details, click [here](compoundThemes.html).
+
 ![][16period-sent]
 ![][16period-hybrid1]
 ![][16period-hybrid3]
 ![][16sent]
+
 
 [sentence]: Graphics/ClassicalThemes/sentence.png
 [period]: Graphics/ClassicalThemes/period.png
