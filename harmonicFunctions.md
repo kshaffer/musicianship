@@ -48,5 +48,7 @@ There is one exception to this (for now): a chord with scale degrees 6, 1, and 3
 
 A chord's *uninterpreted* functional bass label is its function (T, S, D, or Tx) followed by the Arabic numeral for the scale degree of its bass note. A tonic chord with *do* in the bass is **T1**. A dominant chord with *ti* in the bass is **D7**. If the bass note is chromatically altered, use a **+** or **–** to denote raised or lowered (*la* and *ti* in minor do not count, since *le*, *la*, *te*, and *ti* all belong to minor), and if there is a chromatically altered note anywhere in the chord, put the functional bass symbol inside square brackets: **[S6]**, **[S+4]**, **[T–7]**, etc.
 
-See the resource on harmonic syntax for *interpreted* functional bass analysis.
+See the resource on [harmonic syntax](harmonicSyntax.html) for *interpreted* functional bass analysis.
+
+Also, [this handout](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf) will help you determine the function of a chord from the bass scale degree and/or the Roman numeral.
 

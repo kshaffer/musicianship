@@ -58,7 +58,7 @@ This site contains online resources for music theory and aural skills created by
 ### Handouts and charts ###
 
 [Lead-sheet and figured-bass symbols.][LSandFBsymbols]  
-[Functional-bass symbols for common diatonic chords.][funcBassChart]
+[Harmonies (Roman numerals and functional bass) by bass scale degree.](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
 
 
 # Form #
