@@ -10,7 +10,7 @@ Analyzing harmony in a piece or passage of music involves more than labeling cho
 
 The first step in a harmonic analysis is to *identify phrases*. For the most part, that means beginning by identifying [*cadences*](cadenceTypes.html). However, not every type of phrase ends with a cadence, so sensitivity to theme types is important. In classical isntrumental music, that means listening for [period- and sentence-like structures](classicalThemes.html). In classical or romantic music with text, that means listening in particular for the ends of poetic lines and melodic phrases.
 
-Once you have identified the musical phrases, perform a thoroughbass reduction (bass line with figures above) of each phrase. Below the bass line, write an uninterpreted functional bass symbol for each chord (**T1 T3 S4** etc.).
+Once you have identified the musical phrases, perform a thoroughbass reduction (bass line with figures above) of each phrase. Below the bass line, write an uninterpreted functional bass symbol for each chord (**T1 T3 S4** etc.). [This handout](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf) can help you determine the functions of chords in the thoroughbass reduction.
 
 Next identify the general harmonic structure of each phrase. Typical phrases in classical music will do one of the following:
 
