@@ -75,9 +75,13 @@ This site contains online resources for music theory and aural skills created by
 
 [Classical minuet form.][MinuetForm]  
 [Galant schemata.][Schemata]  
-[Introduction to Sonata Theory.][SonataIntro]  
-[Sonata form: the exposition.][SonataExpo]  
-[Sonata form: the recapitulation.][SonataRecap]
+
+Sonata Theory
+
+- [Introduction to Sonata Theory.][SonataIntro]  
+- [Sonata form: exposition types.][SonataExpo]  
+- [Sonata form: expositional modules and cadences.](SonataTheory-modules.html)  
+- [Sonata form: the recapitulation.][SonataRecap]
 
 [Form in pop/rock music.][popRockForm]
 

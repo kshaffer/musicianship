@@ -10,8 +10,8 @@ The *recapitulation* is the goal of the sonata, coming after the *exposition* an
 
 In light of the importance of this relationship, an analysis of a recapitulation should always take place in light of the exposition.
 
-Recapitulatory rotation
------------------------
+Thematic cycle
+--------------
 
 The recapitulation typically follows the same pattern of modules set forth in the exposition: { P TR ’ S / C } for a two-part exposition, { P TR ⇒ FS / C } for a continuous exposition (the apostrophe stands for the MC, the slash stands for the EEC/ESC).
 
@@ -23,13 +23,13 @@ The harmonic goal of the recapitulation (and the sonata movement as a whole) is 
 Recomposition
 -------------
 
-The simplest exposition–recapitulation relationship occurs in a sonata with a I:HC MC in the exposition followed immediately by S in the dominant. In such a sonata, the composer can simply repeat P–TR verbatim in the recapitulation, and then repeat S–C verbatim, but transposed down a fifth. (Think a minuet that uses a modulating Prinner in the exposition and replaces it with a regular Prinner in the recapitulation.) In such a sonata, there is no recomposition. Every bar in the recapitulation directly corresponds to a bar in the exposition, at pitch or tranposed by fifth.
+In most sonatas, as the thematic cycle of the exposition is repeated in the recapitulation, some music from the exposition is recomposed in the recapitulation, often to “undo” the modulation that happened on the way to a V:HC MC. In such cases, we use the term *correspondence bars* (or *correspondence measures*) to refer to the passages that are the same (or the same transposed) in the exposition and the recapitulation. *Referential bars* make clear reference to specific bars in the exposition, but the material is changed in some non-trivial way. *Alterations* are passages in the recapitulation that have no clear reference or correspondence to passages in the exposition.
 
-### Correspondence, referential, and altered passages
+Correspondence, reference, and altered material tends to happen in the following order in the recapitulation: 
 
-In most sonatas, however, some music from the exposition is recomposed in the recapitulation, often to “undo” the modulation that happened on the way to a V:HC MC. In such cases, we use the term *correspondence bars* (or *correspondence measures*) to refer to the passages that are the same (or the same transposed) in the exposition and the recapitulation. *Referential bars* make clear reference to specific bars in the exposition, but the material is changed in some non-trivial way. *Alterations* are passages in the recapitulation that have no clear reference or correspondence to passages in the exposition.
-
-Such passages tend to happen in the following order in the recapitulation: correspondence bars (P and perhaps the beginning of TR or TR ⇒ FS), followed by alterations or referential bars (primarily in TR or TR ⇒ FS), and followed by correspondence bars (S and C, and sometimes the material immediately preceding the MC).
+- correspondence bars (P and perhaps the beginning of TR or TR ⇒ FS)  
+- alterations or referential bars (primarily in TR or TR ⇒ FS)  
+- correspondence bars (S and C, and sometimes the material immediately preceding the MC, transposed to the home key)
 
 ### Crux
 
@@ -41,7 +41,7 @@ Typically there are no alterations *post-crux*, but when there are, they should 
 
 Haydn’s sonatas tend to include far more recomposition in the recapitulation than other *classical* composers. Don’t let that throw you. The general cadential/harmonic structure of sonata form still holds.
 
-One trick to look out for in Haydn (and to a lesser extent in Beethoven) is a *change in exposition type*: a two-part exposition becoming a continuous recapitulation, or a two-part exposition with trimodular block becoming a standard two-part exposition.
+One trick to look out for in Haydn (and to a lesser extent in Beethoven, and rarely in Mozart) is a *change in exposition type*: a two-part exposition becoming a continuous recapitulation, or a two-part exposition with two MCs (trimodular block) becoming a standard two-part exposition.
 
 Hermeneutics
 ------------
