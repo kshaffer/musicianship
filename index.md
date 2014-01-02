@@ -65,6 +65,7 @@ This site contains online resources for music theory and aural skills created by
 
 [Introduction to musical functions.][functions]  
 
+[Classical theme functions.](themeFunctions.html)  
 [Classical theme types.][classicalThemes]  
 
 - [The sentence](sentence.html)  
