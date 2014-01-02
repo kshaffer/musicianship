@@ -11,37 +11,68 @@ A classical *sonata* is a multi-movement work for solo instrument, chamber ensem
 
 # Sonata form #
 
-Sonata form shares many structural properties with small ternary form (specifically the rounded binary variant). In fact, one can consider sonata form to be a larger, more complicated version of small ternary form. Thus, much of what you know about minuets will assist you in learning the basic structure of sonata movements and hearing their key features.
+Sonata form shares many structural properties with *small ternary* form (specifically the *rounded binary* variant). That is, the core music of a sonata movement can be understood as exhibiting a large, three-part pattern of ABA'.
 
-Like small ternary, a standard early sonata movement has a two-reprise structure (later sonatas shed the repeat of the second reprise; still later sonatas often shed both sets of repeats):
+However, like small ternary, a sonata-form movement also has a two-part structure, with the first A section forming the first "half" of the movement, and the B and A' sections working together to form the second "half." This is most obviously seen in early sonata movements, which repeat each of those two parts. This is called a *double-reprise* structure, and on this level looks exactly like a rounded-binary theme.
 
-||: A :||: B A' :||
+**||: A :||: B A' :||**  
+which sounds like  
+**AABA'BA'**
 
-Like in small ternary form, the A section exhibits *exposition* function, and the A' section exhibits *recapitulation* function. The B section fulfills many of the functional roles of *contrasting middle*. However, the B section in a sonata movement has other, unique functional characteristics that require a distinct name. In sonata form, we call the function of the B section *development*. As in minuets, it is common and acceptable to refer to the A section as "the exposition," the B section as "the development," and the A' section as "the recapitulation," as long as we retain the conceptual difference between formal functions (*exposition*, *development*, *recapitulation*) and formal containers (A, B, A').
+Later sonatas shed the repeat of the second reprise, only repeating the first reprise.
+
+**||: A :|| B A' ||**  
+which sounds like  
+**AABA'**
+
+Still later sonatas often shed both sets of repeats, making the binary aspect of the structure much less obvious (if it even exists) than the ternary aspect of the structure.
+
+**|| A || B A' ||**  
+which sounds like  
+**ABA'**
+
+The A section (or *module*) exhibits what we call *exposition* function, and the A' section exhibits *recapitulation* function. (These are the same names as other small ternary forms, like a minuet or the theme of a theme-and-variations movement.) The B section exhibits what we call *development* function. (This differs from the *contrasting middle* of other small ternary forms.) These functions will be briefly defined below and explored in greater detail in other resources.
+
+As in minuets, it is common and acceptable to refer to the A section as "the exposition," the B section as "the development," and the A' section as "the recapitulation," as long as we retain the conceptual difference between formal modules (the passages of music) and formal functions (what those passages *do* in the context of the larger musical structure).
+
+# Formal functions in a sonata movement #
+
+**Exposition function** involves three important features:
+
+- establish the home-key tonality;  
+- move to and establish a secondary key by means of a strong cadence (PAC), called the *essential expositional closure* (EEC); and  
+- lay out the melodic themes and thematic cycle that will form the foundation for the rest of the movement.
+
+We can think about this as a question, or at least an incomplete statement: all the main melodic material of the movement is presented, but it ends in the "wrong" key.
+
+**Development function** highlights the openness of this question by cycling through the same melodies in the same order, exploring the instability of the secondary key. This exploration can be accomplished by any of the following:
+
+- beginning in the secondary key, but modulating to another key before achieving a cadence;  
+- employing non-functional harmonic progressions, such as harmonic sequences;  
+- frequent modulation; or  
+- multiple tonal goals other than the home key or secondary key.
+
+It then intensifies the need for an "answer" by progressing toward an *active dominant* (an HC or a major arrival on V or V<sup>7</sup>) in the home key. 
+
+If exposition function presents a "question," and development function explores and then intensifies this question, **recapitulation function** answers the question. Recapitulation function does this by progressing one last time through the thematic cycle, but this time bringing it to a satisfactory completion: a PAC in the home key, called the *essential sonata closure* (ESC).
 
 # Cadential goals #
 
-Sonata form is anchored around a few important cadences. They serve as signposts for the formal structure, as well as goals of the music leading into them.
+As hinted at above, sonata form is anchored around several important cadences. They serve as signposts for the formal structure, as well as goals of the music leading into them. We will note these cadences using a Roman numeral for the key (relative to the home key) followed by a colon and the type of cadence. 
 
-As in small ternary form, the exposition tends to end with a PAC in a *secondary key* (V in a major-key movement, III in a minor-key movement). Rather than being simply a norm, though, this cadence is *essential* to the form. This PAC is called the *essential expositional closure*, or EEC.
+As in small ternary form, the exposition tends to end with a PAC in a *secondary key* (V:PAC in a major-key movement, III:PAC or v:PAC in a minor-key movement). Rather than being simply a norm, though, this cadence is *essential* to the form. This PAC is called the *essential expositional closure*, or EEC.
 
-Likewise, the recapitulation has a corresponding cadence, also familiar from small ternary form: a PAC in the home key, which tends to correspond thematically with the EEC. This I:PAC is called the *essential sonata closure*, or ESC.
+The recapitulation has a corresponding cadence, also familiar from small ternary form: a PAC in the home key, which tends to correspond thematically with the EEC. This I:PAC is called the *essential sonata closure*, or ESC.
 
-The development section, like the contrasting middle in small ternary form, typically ends with a HC in the home key or a *dominant arrival* in the home key, which prepares the arrival of the recapitulation.
+The development section, like the contrasting middle in small ternary form, typically ends with a HC in the home key (I:HC) or a *dominant arrival* in the home key, which prepares the arrival of the recapitulation.
 
-||: exposition **V:PAC** :||: development **I:HC** recapitulation **I:PAC** :||
+**||: exposition **V:PAC** :||: development **I:HC** recapitulation **I:PAC** :||**
 
-The exposition and recapitulation each have an additional cadential goal that is not shared with other small-ternary-like forms. These goals each occur between the beginning of the formal unit and the cadential goal (EEC or ESC), and they often—though not always—involve a pause or stoppage of melodic or harmonic motion. Thus, each of these halfway cadences is called a *medial caesura* (MC). Both PACs and HCs, in the home key or in a secondary key, can function as medial caesurae.
+or
 
-# Modules and rotation #
+**||: exposition **III:PAC** :||: development **I:HC** recapitulation **I:PAC** :||**
 
-Sonata theory incorporates formal modules similar to those found in pop/rock songs. A module is a formal unit that has definitive *internal characteristics* and definitive *locations in the movement*. That is, there are certain events or properties that tend to happen in each module type, and these modules tend to appear in a certain normative order. (In Hepokoski & Darcy's book *Elements of Sonata Theory*, these modules are called "action spaces." We will use the more generic term "module" to parallel our study of other types of musical forms besides sonatas.)
-
-The exposition of a sonata presents these modules in order: *primary theme (P)*, *transition (TR)*, *secondary theme (S)*, and an optional *closing zone (C)*.
-
-The development of a sonata restarts this *cycle*, or *rotation* (*cycle* is Summach's term from our pop/rock unit; *rotation* is the term used by Hepokoski/Darcy), and progresses through it in order. Sometimes modules are omitted, but rarely are they re-ordered.
-
-The recapitulation, as in other small-ternary forms, re-presents the modules of the exposition in the same order, but altered in order to reach the ESC in the home key.
+Commonly, the exposition and recapitulation each have an additional cadential goal that is not shared with other small-ternary-like forms. These goals each occur between the beginning of the module and the cadential goal (EEC or ESC), and they often—though not always—involve a pause or stoppage of melodic or harmonic motion. Thus, each of these halfway cadences is called a *medial caesura* (MC). Both PACs and HCs, in the home key or in a secondary key, can function as medial caesurae.
 
 # Defaults and deformations #
 
@@ -53,6 +84,4 @@ Non-default properties of a particular sonata movement are called *deformations*
 
 # Further details #
 
-The remaining sonata resources on this website are largely in reference format. Rather than walk through the details in the manner of a typical textbook, they will provide you with the defining features of the elements described in as concise a manner possible. This consision will serve you well when referencing these resources quickly during analytical activities. However, it will also force you to wrestle with them in the context of real pieces in order to understand them fully. If you simply read these resources, you will not understand sonata form. You must make use of them while performing assigned analytical and listening tasks in order to assimilate the information and develop the skills necessary to apply them musically.
-
-Hepokoski & Darcy's book, *Elements of Sonata Theory*, was listed as a recommended, but not required, resource for this course. If you purchased it, you may make use of it for more detailed explanations and more plentiful examples. It is probably not the best place to begin your study of a new concept, but it will be a valuable supplement to the online resources and in-class activities.
+The remaining sonata resources on this website are largely in reference format. Rather than walk through the details in the manner of a typical textbook, they will provide you with the defining features of the elements described in as concise a manner possible. This consision will serve you well when referencing these resources quickly during analytical activities. However, it will also force you to wrestle with them in the context of real pieces in order to understand them fully. If you simply read these resources, you will not understand sonata form. You must make use of them while listening to and analyzing music in order to assimilate the information and develop the skills necessary to apply them musically.
