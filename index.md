@@ -107,6 +107,7 @@ Sonata Theory
 # Performance #
 
 [Melodic sequentials.](melodicSequentials.html)  
+[Harmonic sequentials.](Graphics/harmonicSequential.pdf)  
 [Chromatic solfège syllables and sequentials.](chromaticSolfege.html)  
 [Sight-singing tips.][sightSinging]  
 
