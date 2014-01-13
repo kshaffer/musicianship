@@ -24,6 +24,8 @@ Melodically, the antecedent begins with a two-measure BI. Those two measures are
 **Haydn, Piano Trio in C major, Hob. XV:27, III., mm. 1–4:**  
 [![](Graphics/form/antecedent.png)](Graphics/form/antecedent.png)
 
+<iframe src="https://embed.spotify.com/?uri=spotify:track:1BUSIhYdu0P8LBWXLpAx4g" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/><br/>
+
 Notice the characteristics of the BI (mm. 1–2). It ascends and outlines the tonic triad with leaps to each of its members. The CI contrasts with the BI by descending stepwise. The antecedent phrase closes with a weak HC in the home key.
 
 Also, note that the emphasis on tonic in the melody of the BI is accompanied by a tonic prolongation in the harmony (a variant of the *Romanesca* schema):
