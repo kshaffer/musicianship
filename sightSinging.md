@@ -16,7 +16,7 @@ Then scan the rhythm for the fastest notes, and the pitches for the hardest pass
 
 Find the highest and lowest notes. When singing by yourself, you can sing in any key you like. Choose a key that will put the highest and lowest notes in your range.
 
-Once you have key and tempo chosen, orient yourself to the key. Use the solfège patterns on pp. 51 and 89 of the Karpinski *Manual*.
+Once you have key and tempo chosen, orient yourself to the key. For example, you can use scales, arpeggios, or something like the solfège patterns on pp. 51 and 89 of Gary Karpinski's *Manual for Ear Training and Sight-Singing*.
 
 *After* orienting yourself to the key, look for the hardest and trickiest passages. Sing through a couple of these licks out loud, perhaps adding or removing notes in order to figure them out, then sing them as written.
 
