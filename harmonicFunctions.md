@@ -44,11 +44,14 @@ To determine the function of a chord, find the function that includes all the sc
 
 There is one exception to this (for now): a chord with scale degrees 6, 1, and 3 is a special kind of tonic chord, called a *destabilized tonic*. It's functional label is Tx, rather than T.
 
+If you are already familiar with Roman numerals, you can think of I, III triads belonging to **T**, VI belonging to **Tx**, II and IV belonging to **S**, and V and VII belonging to **D**. Despite this expediency for triads, do not ignore the more detailed concepts above, which will help you analyze passages with more complicated harmonies.
+
+[This handout](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf) will help you determine the function of a chord from the bass scale degree and/or the Roman numeral.
+
+
 ## Labeling chords ##
 
 A chord's *uninterpreted* functional bass label is its function (T, S, D, or Tx) followed by the Arabic numeral for the scale degree of its bass note. A tonic chord with *do* in the bass is **T1**. A dominant chord with *ti* in the bass is **D7**. If the bass note is chromatically altered, use a **+** or **–** to denote raised or lowered (*la* and *ti* in minor do not count, since *le*, *la*, *te*, and *ti* all belong to minor), and if there is a chromatically altered note anywhere in the chord, put the functional bass symbol inside square brackets: **[S6]**, **[S+4]**, **[T–7]**, etc.
 
 See the resource on [harmonic syntax](harmonicSyntax.html) for *interpreted* functional bass analysis.
-
-Also, [this handout](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf) will help you determine the function of a chord from the bass scale degree and/or the Roman numeral.
 
