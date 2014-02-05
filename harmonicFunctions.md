@@ -46,9 +46,9 @@ There is one exception to this (for now): a chord with scale degrees 6, 1, and 3
 
 If you are already familiar with Roman numerals, you can think of I, III triads belonging to **T**, VI belonging to **Tx**, II and IV belonging to **S**, and V and VII belonging to **D**. Despite this expediency for triads, do not ignore the more detailed concepts above, which will help you analyze passages with more complicated harmonies.
 
-![](Graphics/triadFunctions.png)
+[![](Graphics/triadFunctionsSmall.png)](Graphics/triadFunctions.png)
 
-![](Graphics/seventhChordFunctions.png)
+[![](Graphics/seventhChordFunctionsSmall.png)](Graphics/seventhChordFunctions.png)
 
 *Note that because the III<sup>7</sup> chord's scale-degrees do not wholly belong to any of the three functions, it can behave similar to **T** and **D** chords, depending on context. It is a rare chord in its diatonic form.*
 
