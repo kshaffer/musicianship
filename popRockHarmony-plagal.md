@@ -12,7 +12,7 @@ The IV chord, while certainly an extremely frequent predominant/subdominant chor
 
 In "Soul Man" by Sam and Dave, the chord progression used in the verse consists of an alternation of I and IV (listen carefully to the bass).
 
-<iframe width="300" height="240" src="http://www.youtube.com/embed/tLzWyIAfEL8?rel=0" frameborder="0"> </iframe><br/><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:067BMq0jBm7AGaxmiizwCr" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 A similar oscillation between I and IV can be found in the verse to "In the Midnight Hour" by Wilson Pickett.
 
@@ -24,7 +24,7 @@ This kind of chord progression isn't limited to Soul and R&B, of course. The beg
 
 ### Double-plagal progression ###
 
-The "double-plagal" progression is an expansion of the plagal progression discussed above to include the "IV/IV" chord prior to the IV chord. This is perhaps more simply explained as bVII-IV-I (or simply VII-iv-I in minor). The most famous instance of the double-plagal progression is likely the coda from "Hey Jude" by The Beatles:
+The "double-plagal" progression ([Walter Everett's term](http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html)) is an expansion of the plagal progression discussed above to include the "IV/IV" chord prior to the IV chord. This is perhaps more simply explained as bVII-IV-I (or simply VII-iv-I in minor). The most famous instance of the double-plagal progression is likely the coda from "Hey Jude" by The Beatles:
 
 <iframe width="300" height="240" src="http://www.youtube.com/embed/eDdI7GhZSQA?start=185" frameborder="0"> </iframe><br/><br/>
 
@@ -32,4 +32,4 @@ The "double-plagal" progression is an expansion of the plagal progression discus
 
 The "applied IV" chord can be used in sequence, similar to the descending-fifths progression in common-practice music. In the version of "Hey Joe" by Jimi Hendrix, the verse consists of three iterations of the plagal motion in a descending-fourths pattern, which results in the progression: bVI-bIII-bVII-IV-I, in the key of E major.
 
-<iframe width="300" height="240" src="http://www.youtube.com/embed/NyQzl9pML1s?rel=0" frameborder="0"> </iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:3VMMmMR4IYL28n7oKHyUoD" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
