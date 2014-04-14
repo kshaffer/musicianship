@@ -3,10 +3,8 @@ layout: post
 title: Sensitive female progression (pop/rock harmony)
 ---
 
-{{ page.title }}
-================
-
-### "Sensitive female" progression ###
+"Sensitive female" progression
+==============================
 
 
 **&#124;&#124;: VI – IV – I – V :&#124;&#124;** (in major)  
