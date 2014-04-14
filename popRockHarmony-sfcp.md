@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sensitive female progression (pop/rock harmony)
+title: Sensitive female chord progression (pop/rock harmony)
 ---
 
-"Sensitive female" progression
+"Sensitive female" chord progression
 ==============================
 
 
