@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harmony in pop/rock music
+title: Sensitive female progression (pop/rock harmony)
 ---
 
 {{ page.title }}
