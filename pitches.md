@@ -16,7 +16,7 @@ We will follow the International Standards Organization (ISO) system for registe
 
 The tricky bit about this system is that the octave starts on C and ends on B. So an ascending scale from middle C contains the following pitch designations: 
 
-<div class="music21 tinyNotation"> 8/1 c1 d e f g a b c'1</div>
+<div class="music21 tinyNotation"> 8/1 c1 d e f g a b c''1</div>
 	
 ![][C4toC5]
 
