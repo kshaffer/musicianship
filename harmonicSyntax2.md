@@ -22,7 +22,7 @@ Following are the primary techniques used to prolong functional zones in an idea
 
 A *change-of-figure prolongation* occurs when the bass repeats (or is sustained, or drops an octave) while one or more of the upper voices change. 
 
-Examples include progressions like **V–V<sup>7</sup>** (both **D5**) or **IV–II<sup>6</sup> (both **S4**). 
+Examples include progressions like **V–V<sup>7</sup>** (both **D5**) or **IV–II<sup>6</sup>** (both **S4**). 
 
 ## Change-of-bass prolongation ##
 
@@ -30,30 +30,32 @@ A *change-of-bass prolongation* occurs when two chords of the same function appe
 
 ## Contrapuntal prolongation – passing chord ##
 
-Many change-of-bass prolongations involve a skip of a third in the bass, such as **T(1 3)**. Just as in second-species counterpoint a melodic third from downbeat to downbeat invites the use of a passing tone, a melodic third in the bass between these two chords invites the use of a *passing chord*.
+Many change-of-bass prolongations involve a skip of a third in the bass, such as **I–I<sup>6</sup>** (**T1–T3**). Just as in second-species counterpoint a melodic third from downbeat to downbeat invites the use of a weak-beat passing tone, a melodic third in the bass between these two chords invites the use of a *passing chord*.
 
 The bass note of a passing chord will fill in the third with stepwise motion. The melody will also often contain passing motion.
 
 A function is typically prolonged by contrapuntal chords belonging to the function that precedes it in the standard cycle. T is prolonged by D, D by S, and S by T.
 
-A passing chord that prolongs the above **T(1 3)** progression would then be a dominant chord (D precedes T) with scale-degree 2 in the bass (the passing tone between scale degrees 1 and 3): **D2**. In an interpreted functional bass, the D2 is placed within the parentheses, to show that it prolongs tonic rather than express its own function. It is also followed by a lower-case **p** to show that it functions as a *passing* prolongation. The whole progression is labeled **T(1 D2p 3)**.
+A passing chord that prolongs the above **T1–T3** progression would then be a dominant chord (D precedes T) with scale-degree 2 in the bass (the passing tone between scale degrees 1 and 3): **D2**. Common **D2** chords are **V6/4**, **V4/3**, and **VII6**. Thus, a **I–I<sup>6</sup>** prolongation can involve those as passing chords. 
+
+Note that while sacle-degree 2 in the bass can support a **II** chord, **II** is subdominant, and so it is *not* used as a passing chord to prolong tonic.
 
 ## Contrapuntal prolongation – incomplete neighbor chord ##
 
 In second-species counterpoint, variety could come by using a *substitution* in place of a passing tone. This leap of a fourth followed by step in the opposite direction still outlines a third from downbeat to downbeat, but offers a break from too much stepwise motion in the counterpoint.
 
-In harmonic writing, the same effect is obtained by an *incomplete neighbor chord*. The bass follows the same pattern as the second-species counterpoint, and the function of the contrapuntal chord is the same as its passing-chord counterpart. Thus instead of a passing motion of **T(1 D2p 3)**, a substitution pattern in the bass would produce **T(1 D4i 3)**, with the **i** denoting an incomplete neighbor chord.
+In harmonic writing, the same effect is obtained by an *incomplete neighbor chord*. The bass follows the same pattern as the second-species counterpoint, and the function of the contrapuntal chord is the same as its passing-chord counterpart. Thus instead of a passing motion of **T1 D2 T3**, a substitution pattern in the bass would produce **T1 D4 T3**. (In Roman numerals, that progression would almost invariably be **I V<sup>4/2</sup> I<sup>6</sup>**.)
 
 ## Contrapuntal prolongation – complete neighbor chord ##
 
 Just as a *neighbor tone* in second- or third-species counterpoint could be used to ornament a single tone and return to it, a *neighbor chord* uses a neighbor-tone motion in the bass to prolong a function and return to the original bass pitch. The function of a neighbor chord follows the same principle as the passing or incomplete neighbor chord. Following are some examples of neighbor-chord prolongations:
 
-- **T(1 D7n 1)**  
-- **T(3 D4n 3)**  
-- **S(4 T3n 4)**  
-- **D(7 S6n 7)**
+- **T1 D7 T1**  
+- **T3 D4 T3**  
+- **S4 T3 S4**  
+- **D7 S6 D7**
 
-Just as third-species counterpoint has a *double neighbor* figure, harmonies (especially **T1**) can be prolonged by two chords using a double-neighbor figure in the bass. Such a progression would be analyzed **T(1 D(2 7)n 1)**.
+Just as third-species counterpoint has a *double neighbor* figure, harmonies can be prolonged by two chords using a double-neighbor figure in the bass. The most common double-neighbor prolongation is **T1 D2 D7 T1** (commonly **I V4/3 V6/5 I**).
 
 ## Contrapuntal prolongation - divider and embellishing chords ##
 
@@ -61,37 +63,35 @@ In second-species counterpoint, an *interval subdivision* divided a large leap b
 
 Divider chords almost always prolong tonic function, and can do so using either subdominant or dominant dividers. The most common divider-chord prolongations are:
 
-- **T(1 D5d 1)**, where the bass ascends or descends an octave between **T1** chords.  
-- **T(1 S4d 1)**, where the bass ascends or descends an octave between **T1** chords.  
-- **T(1 S6d 3)**, dubbed the *champagne progression* by my undergraduate theory professor Gene Biringer, because it is "the progression you pull out when you want to impress a date." This progression is listed in the *harmonic schemata* resource, because it typically follows a unique voice-leading pattern.  
+- **T1 D5 T1** (**I V<sup>(7)</sup> I**), where the bass ascends or descends an octave between **T1** chords.  
+- **T1 S4 T1** (**I IV I**), where the bass ascends or descends an octave between **T1** chords.  
+- **T1 S6 T3** (**I IV<sup>6</sup> I<sup>6</sup>** or **I IV<sup>6</sup> III**), dubbed the *champagne progression* by theorist Gene Biringer, because it is "the progression you pull out when you want to impress a date." This progression is listed in the *harmonic schemata* resource, because it typically follows a unique voice-leading pattern.  
 
-In the case of the first two progressions, the same harmonic progression can occur without the bass changing register. In other words, the bass leaps from *do* to *sol* or *fa*, but returns to the original bass note. Instead of dividing a large leap, the bass note of the intervening chord looks like an *embellishing tone* from third species. (In third-species counterpoint, an *embellishing tone* ornaments another tone by leaping to another consonance (usually a third or fourth away) and returning to the original tone.) Thus, what would otherwise be a *divider chord* is instead an *embellishing chord*. Such a chord takes a postscript of **e** instead of **d**:
-
-- **T(1 D5e 1)**  
-- **T(1 S4e 1)**
+In the case of the first two progressions, the same harmonic progression can occur without the bass changing register. In other words, the bass leaps from *do* to *sol* or *fa*, but returns to the original bass note. Instead of dividing a large leap, the bass note of the intervening chord looks like an *embellishing tone* from third species. (In third-species counterpoint, an *embellishing tone* ornaments another tone by leaping to another consonance—usually a third or fourth away—and returning to the original tone.) Thus, what would otherwise be a *divider chord* is instead an *embellishing chord*. 
 
 ## Subsidiary harmonic progressions ##
 
-The last type of prolongation is not contrapuntal, but instead involves weak versions of the typical **T–(S)–D–T** progression. When such a progression fails to produce a proper cadence—i.e., ends with contrapuntal chords such as **D7–T1** or **D4–T3**, or uses a "deceptive resolution" **D5–Tx6** in place of the cadential **D5–T1**—the progression is called a *subsidiary harmonic progression* (the term comes from Edward Aldwell & Carl Schachter; Steven Laitz calls the same progression an *embedded phrase model*). It is "subsidiary" (or "embedded") because instead of occupying the whole phrase, it is subsidiary to (or embedded in) a larger progression. These subsidiary progressions *always prolong tonic* and are labeled with curly brackets {}.
+The last type of prolongation is not contrapuntal, but instead involves weak versions of the typical **T–(S)–D–T** progression. When such a progression fails to produce a proper cadence—that is, it ends with contrapuntal chords such as **D7–T1** or **D4–T3**, or uses a "deceptive resolution" **D5–Tx6** (**V–VI**) in place of the cadential **D5–T1**—the progression is called a *subsidiary harmonic progression* (this term comes from Edward Aldwell & Carl Schachter; Steven Laitz calls the same progression an *embedded phrase model*). It is "subsidiary" (or "embedded") because instead of occupying the whole phrase, it is subsidiary to (or embedded in) a larger progression. 
+
+These subsidiary progressions *always prolong tonic*. They are labeled in an analysis by following the initial T with a line:
+
+> **T—————**
 
 For instance, consider the following possible harmonic progression for a phrase:
 
-> **T1 S4 D4 T3 S4 D5 T1**
+> **T1 S4 D4 T3 S4 D5 T1**  
+(**I IV V<sup>4/2</sup> I<sup>6</sup> II<sup>6</sup> V I**)
 
-The first progression through the **T–S–D–T** cycle does not produce a cadence when it returns to T. However, it cannot be said to be a contrapuntal prolongation because it follows the normal functional cycle perfectly. This is a subsidiary progression. When it is closed off in curly brackets to show its role prolonging tonic function, the phrase as a whole then shows a single, strong progression through the **T–S–D–T** cycle.
+The first progression through the **T–S–D–T** cycle does not produce a cadence when it returns to T. However, it cannot be said to be a contrapuntal prolongation because it follows the normal functional cycle perfectly. Thus, it is a subsidiary progression. 
 
-> **T{1 S4 D4 3} S4 D5 T1**
-
-It is important to use the curly brackets to show the difference between the subsidiary progression and the contrapuntal prolongation. They not only follow different harmonic patterns, but they sound different and originate with different concepts (prolonging tonic via voice-leading/counterpoint or via a weak harmonic progression).
+> **I IV V<sup>4/2</sup> I<sup>6</sup> II<sup>6</sup> V I**  
+**T———— S D T**
 
 ## Prolonging a progression ##
 
 Occasionally, a contrapuntal chord is used not to prolong a single function, but to connect chords of different functions—in other words, to prolong a progression.
 
-The most common occurrence is when a bass line moves down by step from *do* to *sol*, which is especially common in minor. The bass line *do*–*te*–*le*–*sol* is harmonized by **T1 D7 S6 D5**. While it may seem that the appropriate interpretation would be that **S6** is a passing chord between the two dominants, that does not square with the sound of the progression—particularly when the **S6** chord is a strong, chromatic subdominant chord. Instead, it makes more musical sense to hear the **S6** as a functional subdominant leading to the cadential **D5**. The **D7** chord, then, is simply a passing chord that connects **T1** with **S6**.
+The most common occurrence is when a bass line moves down by step from *do* to *sol*, which is especially common in minor. The bass line *do*–*te*–*le*–*sol* is harmonized by **T1 D7 S6 D5** (usually **i v<sup>6</sup> iv<sup>6</sup> V**—the chord qualities are important in this progression, called the "lament"). While it may seem that the appropriate interpretation would be that **S6** is a passing chord between the two dominants, that does not square with the sound of the progression: not only are the **D** or **V** chords different qualities, but sometimes the **S6** chord is a strong, chromatic subdominant chord (such as an *augmented-sixth* chord). Thus, it often makes more musical sense to hear the **S6** as a functional subdominant leading to the cadential **D5**. The **D7** chord, then, is simply a passing chord that connects **T1** with **S6**.
 
-To notate this by hand, draw and arrow between **T1** and **S6**, and place **D7p** on top of the arrow. When entering the functional bass into notation software, it is fine to notate the progression **T1 D7p S6 D5**. The meaning will be understood. However, when analyzing by hand, the arrow makes the interpretation clearer, and therefore should be used.
+To notate this by hand, draw and arrow between **T** (underneath **i**) and **S** (underneath **iv<sup>6</sup>**). 
 
-![][passing]
-
-[passing]: Graphics/D7p.png
