@@ -6,11 +6,11 @@ title: Harmonic syntax - the idealized phrase
 {{ page.title }}
 ================
 
-*Harmonic syntax* concerns the norms or principles according to which harmonies (chords) are placed into meaningful successions. These norms include progressions that are more or less common than others. Those norms generate expectations for listeners familiar with the style: if IV–V is more common than IV–VI, the appearance of a IV chord generates an expectation that the next chord is more likely to be V than it is to be VI.
+*Harmonic syntax* concerns the norms or principles according to which harmonies (chords) are placed into meaningful successions. These norms include progressions that are more or less common than others. Those norms generate expectations for listeners familiar with the style: if **IV–V** is more common than **IV–VI**, the appearance of a **IV** chord generates an expectation that the next chord is more likely to be **V** than it is to be **VI**.
 
 In Western classical music, harmonies generally group into three *harmonic functions*—tonic (T), subdominant (S), and dominant (D)—and these functions group together chords that progress to and from other chords in similar ways. 
 
-On a local level (chord-to-chord progressions), we can summarize the tendencies of these functions with the cycle T–S–D–T. That is, harmonies tend to progress through a cyclical progression of those three functions:
+On a local level (chord-to-chord progressions), we can summarize the tendencies of these functions with the cycle **T–S–D–T**. That is, harmonies tend to progress through a cyclical progression of those three functions:
 
 > **T → S → D → T →** and so on . . .
 
