@@ -20,13 +20,13 @@ Following are the primary techniques used to prolong functional zones in an idea
 
 ## Change-of-figure prolongation ##
 
-A *change-of-figure prolongation* occurs when the bass repeats (or is sustained, or drops an octave) while one or more of the upper voices change. If the function and the bass scale degree remain the same, the functional bass remains the same, but the thoroughbass figure changes, and most of the time the Roman numeral changes as well.
+A *change-of-figure prolongation* occurs when the bass repeats (or is sustained, or drops an octave) while one or more of the upper voices change. 
+
+Examples include progressions like **V–V<sup>7</sup>** (both **D5**) or **IV–II<sup>6</sup> (both **S4**). 
 
 ## Change-of-bass prolongation ##
 
-A *change-of-bass prolongation* occurs when two chords of the same function appear back-to-back, but with different bass pitch classes. **D5–D4**, **T1–T3**, and **T1–Tx6** are common examples.
-
-Parentheses are used to show the prolongation of a function through the change of bass. **T1–T3** becomes **T(1 3)**, and **T1–Tx6** becomes **T(1 x6)**, for example.
+A *change-of-bass prolongation* occurs when two chords of the same function appear back-to-back, but with different bass pitch classes. In some cases, these are changes of inversion: **I–I<sup>6</sup>**, for example. In other cases, the root changes: **I–III** or **IV–II**, for example. What makes these progressions prolongations is that the function remains the same. **I–I<sup>6</sup>** prolongs tonic function (**T1–T3**), and **IV–II** prolongs subdominant function (**S4–S2**).
 
 ## Contrapuntal prolongation – passing chord ##
 
