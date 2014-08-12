@@ -8,7 +8,7 @@ title: Harmonic syntax - prolongation
 
 # Triggering and prolonging harmonic functions in an idealized phrase #
 
-To establish, or trigger, a harmonic functional zone, *a fixed scale degree must appear in the bass*. In other words, tonic can be triggered by **T1** (always I), subdominant by **S2** or **S4** (including a variety of II and IV chords, in inversions, with and without sevenths), and dominant by D5 (V, with or without a seventh, or any initial chord of a *compound cadence*). These are called *functional chords* (because they trigger the function) or *cadential chords* (because they can participate in a cadence). Other chords are called *contrapuntal chords*, and are used to *prolong* a function throughout the zone.
+To establish, or trigger, a harmonic functional zone, *a fixed scale degree must appear in the bass*. In other words, tonic can be triggered by **T1** (always **I**), subdominant by **S2** or **S4** (including a variety of **II** and **IV** chords, in inversions, with and without sevenths), and dominant by **D5** (**V**, with or without a seventh, or any initial chord of a *compound cadence*). These are called *functional chords* (because they trigger the function) or *cadential chords* (because they can participate in a cadence). Other chords are called *contrapuntal chords*, and are used to *prolong* a function throughout the zone.
 
 Functional prolongations are shown in a harmonic analysis by writing/typing T, S, or D underneath the individual chord labels (Roman numerals or functional bass) and extending a line from the beginning of the functional zone to the end.
 
@@ -91,7 +91,5 @@ The first progression through the **T–S–D–T** cycle does not produce a cad
 
 Occasionally, a contrapuntal chord is used not to prolong a single function, but to connect chords of different functions—in other words, to prolong a progression.
 
-The most common occurrence is when a bass line moves down by step from *do* to *sol*, which is especially common in minor. The bass line *do*–*te*–*le*–*sol* is harmonized by **T1 D7 S6 D5** (usually **i v<sup>6</sup> iv<sup>6</sup> V**—the chord qualities are important in this progression, called the "lament"). While it may seem that the appropriate interpretation would be that **S6** is a passing chord between the two dominants, that does not square with the sound of the progression: not only are the **D** or **V** chords different qualities, but sometimes the **S6** chord is a strong, chromatic subdominant chord (such as an *augmented-sixth* chord). Thus, it often makes more musical sense to hear the **S6** as a functional subdominant leading to the cadential **D5**. The **D7** chord, then, is simply a passing chord that connects **T1** with **S6**.
-
-To notate this by hand, draw and arrow between **T** (underneath **i**) and **S** (underneath **iv<sup>6</sup>**). 
+The most common occurrence is when a bass line moves down by step from *do* to *sol*, which is especially common in minor. The bass line *do*–*te*–*le*–*sol* is harmonized by **T1 D7 S6 D5** (usually **i v<sup>6</sup> iv<sup>6</sup> V**—the chord qualities are important in this progression, called the "lament"). In this progression, the **S6** is functional subdominant leading to the cadential **D5**. The **D7** chord, then, is simply a passing chord that connects **T1** with **S6**. To notate this, draw and arrow between **T** (underneath **i**) and **S** (underneath **iv<sup>6</sup>**). 
 
